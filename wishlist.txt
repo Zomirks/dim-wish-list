@@ -12,6 +12,9 @@ dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2846385770
 //notes: No Reload (desc) tags:god-pve
 dimwishlist:item=1481892490&perks=4090651448,2420895100,3643424744,3425386926
 
+// The Palindrome (Adept) - No Reload (god-pve)
+//notes: No Reload (desc) tags:god-pve
+dimwishlist:item=1481892490&perks=3643424744,3425386926
 
 // The Palindrome (Adept) - Reload (god-pve)
 dimwishlist:item=1481892490&perks=4090651448,1087426260,1168162263,3425386926
